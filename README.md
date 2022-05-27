@@ -12,7 +12,7 @@ A collection of kotlin functions for signing data on Ethereum.
 repositories {
     mavenCentral()
     
-    // If you need to get SolanaWeb3 versions that are not uploaded to Maven Central.
+    // If you need to get Ethereum-Sign-Util versions that are not uploaded to Maven Central.
     maven { url "https://s01.oss.sonatype.org/content/repositories/staging/" }
 }
 
